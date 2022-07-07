@@ -13,9 +13,7 @@
 (host=127.0.0.1, port=3307, database=laravel_docker_db, user=test_user1, password=1111)
 
 ## Used images:
-- docker
-- PHP8.0
-- Laravel
+- php:8.0-fpm
 - mysql
 - nginx
 - mailhog
