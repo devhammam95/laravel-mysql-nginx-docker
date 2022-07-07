@@ -10,7 +10,7 @@
 - Your host api will be `http://localhost:8005`.
 - Your mailhog host will be `http://localhost:8025` to show received mails.
 - To connect to mysql data, do these configurations:
-(host=127.0.0.1, port=3307, database=laravel-docker_db, user=test_user1, password=1111)
+(host=127.0.0.1, port=3307, database=laravel_docker_db, user=test_user1, password=1111)
 
 ## Used images:
 - docker
